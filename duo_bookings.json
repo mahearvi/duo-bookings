@@ -1,3 +1,7 @@
 [
-  { "room": "Room 101", "date": "2025-9-17", "user": "Shan1" }
+  {
+    "room": "room1",
+    "date": "2025-9-17",
+    "user": "Shan1"
+  }
 ]
