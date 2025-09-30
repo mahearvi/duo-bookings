@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "room": "Room 101",
+    "date": "2025-9-1",
+    "user": "admin"
+  },
+  {
+    "room": "Room 101",
+    "date": "2025-9-2",
+    "user": "admin"
+  }
+]
