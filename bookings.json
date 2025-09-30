@@ -8,5 +8,10 @@
     "room": "Room 101",
     "date": "2025-10-15",
     "user": "Shan"
+  },
+  {
+    "room": "Room 102",
+    "date": "2025-10-8",
+    "user": "Divya"
   }
 ]
