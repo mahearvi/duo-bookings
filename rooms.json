@@ -1,5 +1,14 @@
 [
-  { "name": "Room 101" },
-  { "name": "Room 102" },
-  { "name": "Room 103" }
+  {
+    "name": "Room 101"
+  },
+  {
+    "name": "Room 102"
+  },
+  {
+    "name": "Room 103"
+  },
+  {
+    "name": "Room A"
+  }
 ]
