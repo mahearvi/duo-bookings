@@ -1,5 +1,14 @@
 [
-  { "username": "Shan", "password": "1234" },
-  { "username": "Chandru", "password": "1234" },
-  { "username": "Dhivya", "password": "1234" }
+  {
+    "username": "Shan",
+    "password": "12345"
+  },
+  {
+    "username": "Chandru",
+    "password": "1234"
+  },
+  {
+    "username": "Dhivya",
+    "password": "1234"
+  }
 ]
