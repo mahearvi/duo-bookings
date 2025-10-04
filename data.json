@@ -8,6 +8,6 @@
     "ville": {}
   },
   "users": [
-    {"username":"admin","password":"password"}
+    {"username":"a","password":"a"}
   ]
 }
