@@ -1,0 +1,13 @@
+{
+  "rooms": {
+    "duo": ["S1","S2","S3","S4","S5"],
+    "ville": ["R1","R2","R3"]
+  },
+  "bookings": {
+    "duo": {},
+    "ville": {}
+  },
+  "users": [
+    {"username":"admin","password":"password"}
+  ]
+}
