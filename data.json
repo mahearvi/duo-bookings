@@ -9,8 +9,7 @@
       "cxcx",
       "sds",
       "Jdjdjs",
-      "Jxjxjs",
-      "Jxjdjs"
+      "Jxjxjs"
     ],
     "ville": [
       "R1",
@@ -19,80 +18,8 @@
     ]
   },
   "bookings": {
-    "duo": [
-      {
-        "room": "S1s",
-        "date": "undefined",
-        "user": {
-          "undefined": {
-            "2025-09-28": "arvi"
-          }
-        }
-      },
-      {
-        "room": "S2",
-        "date": "undefined",
-        "user": {
-          "undefined": {}
-        }
-      },
-      {
-        "room": "S3",
-        "date": "undefined",
-        "user": {
-          "undefined": {}
-        }
-      },
-      {
-        "room": "S4",
-        "date": "undefined",
-        "user": {
-          "undefined": {}
-        }
-      },
-      {
-        "room": "S5",
-        "date": "undefined",
-        "user": {
-          "undefined": {}
-        }
-      },
-      {
-        "room": "cxcx",
-        "date": "undefined",
-        "user": {
-          "undefined": {}
-        }
-      },
-      {
-        "room": "sds",
-        "date": "undefined",
-        "user": {}
-      }
-    ],
-    "ville": [
-      {
-        "room": "R1",
-        "date": "undefined",
-        "user": {
-          "undefined": {}
-        }
-      },
-      {
-        "room": "R2",
-        "date": "undefined",
-        "user": {
-          "undefined": {}
-        }
-      },
-      {
-        "room": "R3",
-        "date": "undefined",
-        "user": {
-          "undefined": {}
-        }
-      }
-    ]
+    "duo": [],
+    "ville": []
   },
   "users": [
     {
