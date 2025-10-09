@@ -6,7 +6,8 @@
       "S3",
       "S4",
       "S5",
-      "cxcx"
+      "cxcx",
+      "sds"
     ],
     "ville": [
       "R1",
@@ -35,7 +36,8 @@
       },
       "cxcx": {
         "undefined": {}
-      }
+      },
+      "sds": {}
     },
     "ville": {
       "R1": {
