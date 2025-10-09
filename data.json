@@ -17,18 +17,36 @@
   "bookings": {
     "duo": {
       "S1": {
-        "2025-09-28": "arvi"
+        "undefined": {
+          "2025-09-28": "arvi"
+        }
       },
-      "S2": {},
-      "S3": {},
-      "S4": {},
-      "S5": {},
-      "cxcx": {}
+      "S2": {
+        "undefined": {}
+      },
+      "S3": {
+        "undefined": {}
+      },
+      "S4": {
+        "undefined": {}
+      },
+      "S5": {
+        "undefined": {}
+      },
+      "cxcx": {
+        "undefined": {}
+      }
     },
     "ville": {
-      "R1": {},
-      "R2": {},
-      "R3": {}
+      "R1": {
+        "undefined": {}
+      },
+      "R2": {
+        "undefined": {}
+      },
+      "R3": {
+        "undefined": {}
+      }
     }
   },
   "users": [
