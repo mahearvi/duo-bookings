@@ -4,5 +4,11 @@
     "date": "2025-10-18",
     "user": "Praveen",
     "note": "check in - 5.00\nAm Saturday \nCheck out - 10 am Sunday \n\nPayment - 3,800/- total 2 rooms GPay paid"
+  },
+  {
+    "room": "102",
+    "date": "2025-10-18",
+    "user": "Sudarsan",
+    "note": "check in - 11 pm Friday\nCheck out - 1 pm Saturday \n\n1500 payment collected"
   }
 ]
