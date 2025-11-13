@@ -79,5 +79,11 @@
     "date": "2025-11-15",
     "user": "sudhakar",
     "note": "check in : 9 am"
+  },
+  {
+    "room": "S4",
+    "date": "2025-11-16",
+    "user": "sudhakar",
+    "note": "check out-6 am"
   }
 ]
