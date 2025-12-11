@@ -109,5 +109,11 @@
     "date": "2025-12-22",
     "user": "savitha sri s",
     "note": "s1 from booking.com"
+  },
+  {
+    "room": "S2",
+    "date": "2025-12-23",
+    "user": "savitha sri",
+    "note": "s1 from booking.com"
   }
 ]
